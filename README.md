@@ -1,5 +1,5 @@
 # AsyncTaskHelper
-Helper class used for executing task asynchronously.
+Helper class used for executing task asynchronously. This can be used when using RoomDatabase, which in return avoids hard coded async task classes so you could focus on other things.
 
 ## How to use
 
