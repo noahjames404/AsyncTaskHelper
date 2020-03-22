@@ -1,6 +1,10 @@
 # AsyncTaskHelper
 Helper class used for executing task asynchronously. This can be used when using RoomDatabase, which in return avoids hard coded async task classes so you could focus on other things.
 
+# Installation 
+Get the latest library from here <br>
+[![](https://jitpack.io/v/noahjames404/async_task_helper_library.svg)](https://jitpack.io/#noahjames404/async_task_helper_library)
+
 ## How to use
 
 When creating simple task without any return values in the end use ``SimpleAsync`` 
